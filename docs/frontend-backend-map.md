@@ -1,9 +1,5 @@
 # Sabi-Sabi Frontend ↔ Backend File Map
 
-This document maps the planned Sabi-Sabi frontend files to their matching backend files, API routes, database tables, and feature responsibilities.
-
-> Suggested location in the repo: `docs/frontend-backend-map.md`
-
 ---
 
 ## 1. Purpose
