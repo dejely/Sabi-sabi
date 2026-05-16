@@ -5,29 +5,21 @@
 [![Stargazers][stars-shield]][stars-url]
 [![License][license-shield]][license-url]
 
+## Development
+Follow our commit naming conventions here:
+- [Commit conventions](docs/COMMIT_CONVENTIONS.md)
 
+### Backend
+```bash
+cd backend
+pnpm install
+```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Frontend
+```bash
+cd frontend
+pnpm install
+```
 
 <!-- MARKDOWN LINKS -->
 [contributors-shield]: https://img.shields.io/github/contributors/dejely/CMSC127-final-project.svg?style=flat-square&color=FACC15
