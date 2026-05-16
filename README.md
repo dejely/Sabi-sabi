@@ -6,7 +6,7 @@
 [![License][license-shield]][license-url]
 
 ## Development
-
+Follow our commit naming conventions here:
 - [Commit conventions](docs/COMMIT_CONVENTIONS.md)
 
 ### Backend
