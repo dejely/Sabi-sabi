@@ -13,6 +13,7 @@ Follow our commit naming conventions here:
 ```bash
 cd backend
 pnpm install
+pnpm run dev
 ```
 
 ### Frontend
